@@ -16,7 +16,6 @@
   box-shadow: 4px 4px 20px 4px #a6eef7;
   transition: all 200ms ease-in-out 0s;
 }
-
 .block:last-child:hover {
   transform: scale(1.05);
 }
